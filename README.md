@@ -1,4 +1,4 @@
-# 🪶 Home
+# 🪶 openkb
 A repository containing my keyboard layouts built in various firmwares.
 
 ## 📦 Install
